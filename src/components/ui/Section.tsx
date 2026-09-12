@@ -9,7 +9,7 @@ interface SectionProps extends React.HTMLAttributes<HTMLElement> {
   title?: string;
   subtitle?: string;
   centered?: boolean;
-  background?: 'white' | 'subtle' | 'dark' | 'brand';
+  background?: 'white' | 'subtle' | 'dark' | 'brand' | 'cream' | 'card';
   containerSize?: 'sm' | 'md' | 'lg' | 'xl' | 'full';
   children: React.ReactNode;
 }
@@ -27,10 +27,12 @@ export function Section({
   ...props
 }: SectionProps) {
   const backgroundClasses = {
-    white: 'bg-white dark:bg-surface-950',
-    subtle: 'bg-surface-50/80 border-y border-surface-200/60 dark:bg-surface-900/50 dark:border-surface-800/60',
-    dark: 'bg-surface-900 text-white dark:bg-surface-950',
+    white: 'bg-white',
+    subtle: 'bg-surface-50/80 border-y border-surface-200/60',
+    dark: 'bg-surface-900 text-white',
     brand: 'bg-brand-900 text-white',
+    cream: 'bg-[#FAF8F5]',
+    card: 'bg-surface-100',
   };
 
   return (
