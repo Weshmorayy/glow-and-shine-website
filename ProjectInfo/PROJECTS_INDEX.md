@@ -20,3 +20,11 @@ Ce document recense tous les projets de l'agence, leur statut et leurs dépôts 
 - **Plan d'organisation global** : [`[PLAN]_SYSTEM_REORGANIZATION_AND_WORKFLOW.md`](./[PLAN]_SYSTEM_REORGANIZATION_AND_WORKFLOW.md)
 - **Guide Anti-IA** : [`[GUIDE]_AVOIDING_AI_LOOK_AND_FEEL.md`](./SpecialGuides/[GUIDE]_AVOIDING_AI_LOOK_AND_FEEL.md)
 - **Règles permanentes** : [`AGENTS.md`](../AGENTS.md)
+
+### 9. TKS Couture Abidjan
+- **Secteur** : Maison de Mode & Haute Confection Africaine
+- **Localisation** : Yopougon Niangon Cité CIE, Abidjan
+- **Contact** : `+225 05 44 73 12 18` / `+225 07 87 09 05 06`
+- **Dépôt GitHub** : [Weshmorayy/tkscouture-website](https://github.com/Weshmorayy/tkscouture-website)
+- **Design & Approche** : Lookbook éditorial haute couture, palette Navy `#1A2744` & Champagne `#B8A98A`, collections Homme (chemises brodées), Femme (robes sur mesure) et Enfants (tenues scolaires & festives), formulaire de commande directe WhatsApp.
+- **Statut** : ✅ Terminé & 100% Vercel-ready
