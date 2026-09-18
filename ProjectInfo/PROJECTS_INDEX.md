@@ -13,6 +13,7 @@ Ce document recense tous les projets de l'agence, leur statut et leurs dépôts 
 | **Abidjan Bijoux (Chez Mortalla)** | `abidjanbijoux` | [Weshmorayy/abidjanbijoux-website](https://github.com/Weshmorayy/abidjanbijoux-website) | Joaillerie Or 18K & Création Sur-Mesure (Abidjan) | ✅ En production | `Documents/Clients/Abidjan Bijouterie` |
 | **TKS Couture Abidjan** | `tkscouture` | [Weshmorayy/tkscouture-website](https://github.com/Weshmorayy/tkscouture-website) | Haute Confection & Couture Africaine (Abidjan) | ✅ En production | `Documents/Clients/Tks Couture` |
 | **Ashla Kids Dakar** | `ashlakids` | [Weshmorayy/ashlakids-website](https://github.com/Weshmorayy/ashlakids-website) | Prêt-à-porter Enfant, Cérémonie & Vente en Gros (Dakar) | ✅ En production | `Documents/Clients/Ashla Kids` |
+| **Gémeaux Optique Dakar** | `gemeauxoptique` | [Weshmorayy/gemeauxoptique-website](https://github.com/Weshmorayy/gemeauxoptique-website) | Lunetterie & Solaires Haute Précision (Dakar) | ✅ En production | `Documents/Clients/Gémaux Optique` |
 
 ---
 
@@ -37,4 +38,12 @@ Ce document recense tous les projets de l'agence, leur statut et leurs dépôts 
 - **Contact** : `+221 77 108 98 63` / `+221 78 121 63 23`
 - **Dépôt GitHub** : [Weshmorayy/ashlakids-website](https://github.com/Weshmorayy/ashlakids-website)
 - **Design & Approche** : Identité pétillante & soignée (Palette Graphite `#1A1D1A`, Rose Bonbon `#FF3864`, Jaune Soleil `#FFD166`), catalogue interactif (Pointures 21 à 36, Robes de cérémonie, Sacs Disney, Bérets fleurs 3D), Panier Express WhatsApp multi-articles avec calcul des frais de livraison à Dakar & Régions, section Gros & Revendeurs.
+- **Statut** : ✅ Terminé & 100% Vercel-ready
+
+### 11. Gémeaux Optique Dakar
+- **Secteur** : Lunetterie Luxe, Solaires Tendance & Verres Anti-Lumière Bleue
+- **Localisation** : Dakar, Sénégal
+- **Contact** : `+221 76 282 02 91` / `+221 70 778 99 08`
+- **Dépôt GitHub** : [Weshmorayy/gemeauxoptique-website](https://github.com/Weshmorayy/gemeauxoptique-website)
+- **Design & Approche** : Diptyque lookbook asymétrique Gentle Monster / AHLEM (Noir Obsidienne `#0D0F12`, Or Champagne `#C5A059`), multi-pages complet (`/`, `/boutique`, `/anti-lumiere-bleue`, `/services-verres`, `/contact`), moteur de recherche instantané, filtres par forme/genre/catégorie, sélecteur de verres (Anti-lumière bleue 420nm, UV400, Ordonnance médicale), Panier WhatsApp avec calcul zones Dakar.
 - **Statut** : ✅ Terminé & 100% Vercel-ready
