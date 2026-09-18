@@ -28,3 +28,11 @@ Ce document recense tous les projets de l'agence, leur statut et leurs dépôts 
 - **Dépôt GitHub** : [Weshmorayy/tkscouture-website](https://github.com/Weshmorayy/tkscouture-website)
 - **Design & Approche** : Lookbook éditorial haute couture, palette Navy `#1A2744` & Champagne `#B8A98A`, collections Homme (chemises brodées), Femme (robes sur mesure) et Enfants (tenues scolaires & festives), formulaire de commande directe WhatsApp.
 - **Statut** : ✅ Terminé & 100% Vercel-ready
+
+### 10. Ashla Kids Dakar
+- **Secteur** : Boutique Mode Enfant, Bébés & Vente en Gros/Détail
+- **Localisation** : Dakar, Sénégal
+- **Contact** : `+221 77 108 98 63` / `+221 78 121 63 23`
+- **Dépôt GitHub** : [Weshmorayy/ashlakids-website](https://github.com/Weshmorayy/ashlakids-website)
+- **Design & Approche** : Identité pétillante & soignée (Palette Graphite `#1A1D1A`, Rose Bonbon `#FF3864`, Jaune Soleil `#FFD166`), catalogue interactif (Pointures 21 à 36, Robes de cérémonie, Sacs Disney, Bérets fleurs 3D), Panier Express WhatsApp multi-articles avec calcul des frais de livraison à Dakar & Régions, section Gros & Revendeurs.
+- **Statut** : ✅ Terminé & 100% Vercel-ready
