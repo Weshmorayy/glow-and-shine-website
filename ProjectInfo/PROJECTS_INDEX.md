@@ -11,6 +11,8 @@ Ce document recense tous les projets de l'agence, leur statut et leurs dépôts 
 | **Éclat d’Or Bijouterie** | `eclatdor` | [Weshmorayy/eclatdor-website](https://github.com/Weshmorayy/eclatdor-website) | Vitrine Joaillerie & Rachat d'Or (Abidjan) | ✅ En production | `Documents/Clients/Éclat d'or Bijouterie` |
 | **Nathy Essences Parfumerie** | `nathyessences` | [Weshmorayy/nathyessences-website](https://github.com/Weshmorayy/nathyessences-website) | Bar à Essences Pures & B2B Gros (Abidjan) | ✅ En production | `Documents/Clients/Nathy Essences Parfumerie` |
 | **Abidjan Bijoux (Chez Mortalla)** | `abidjanbijoux` | [Weshmorayy/abidjanbijoux-website](https://github.com/Weshmorayy/abidjanbijoux-website) | Joaillerie Or 18K & Création Sur-Mesure (Abidjan) | ✅ En production | `Documents/Clients/Abidjan Bijouterie` |
+| **TKS Couture Abidjan** | `tkscouture` | [Weshmorayy/tkscouture-website](https://github.com/Weshmorayy/tkscouture-website) | Haute Confection & Couture Africaine (Abidjan) | ✅ En production | `Documents/Clients/Tks Couture` |
+| **Ashla Kids Dakar** | `ashlakids` | [Weshmorayy/ashlakids-website](https://github.com/Weshmorayy/ashlakids-website) | Prêt-à-porter Enfant, Cérémonie & Vente en Gros (Dakar) | ✅ En production | `Documents/Clients/Ashla Kids` |
 
 ---
 
